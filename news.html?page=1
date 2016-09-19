@@ -1,0 +1,110 @@
+<html>
+<body >
+<meta charset="UTF-8">
+<style>
+     /** * Eric Meyer's Reset CSS v2.0 (http://meyerweb.com/eric/tools/css/reset/) * http://cssreset.com */html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,time, mark, audio, video {	margin: 0;	padding: 0;	border: 0;	font-size: 100%;	font: inherit;	vertical-align: baseline;}/* HTML5 display-role reset for older browsers */article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {	display: block;}body {	line-height: 1;}ol, ul {	list-style: none;}blockquote, q {	quotes: none;}blockquote:before, blockquote:after,q:before, q:after {	content: '';	content: none;}table {	border-collapse: collapse;	border-spacing: 0;}
+        
+h2{
+            font-family: 'Minecraft_rus';
+            font-size: 22px;
+            color: #fff;
+        }
+        a{
+	padding: 0px;
+	color: #4E8DE6;
+}
+
+.container{
+	padding: 1px;
+	padding-top: 29px;
+	padding-bottom: 29px;
+}
+
+}
+.logo {
+	background: #000;
+}
+header{
+	padding: 0px;
+	padding-right: 50px;
+	width: 2000px;
+     height: 108px;
+	line-height: 108px;
+	background: url(novaskin-minecraft-wallpaper.png), #5a5a5a;
+	font-family: 'Minecraft Title Cyrillic';
+            font-size: 22px;
+            color: #fff;
+}
+header{
+	padding: 0px;
+	padding-right: 50px;
+	width: 2000px;
+        height: 108px;
+	line-height: 108px;
+	background: url(novaskin-minecraft-wallpaper.png), #5a5a5a;
+	font-family: 'Minecraft Title Cyrillic';
+            font-size: 22px;
+            color: #fff;
+}
+
+.content{
+	margin-top: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	width: 1000px;
+	background-color: #ffffff;
+}
+
+.info{
+	margin-top: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	width: 1000px;
+	background-color: #ffd800;
+}
+
+.error{
+	margin-top: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	width: 1000px;
+	background-color: #FF0000;
+}
+.copyright{
+	font-family: 'Minecraft_rus';
+	background-color: black;
+	width: 1000px;
+	height: 50px;
+}
+
+.left{
+	padding: 0px;
+	float: left;
+}
+
+.right{
+	padding: 1px;
+	float: right;
+}
+
+.right_menu{
+	padding: 1px;
+	padding-top: 10px;
+	padding-right: 50px;
+}
+
+ body { background: url(fon.png), #000; }
+</style>
+<title>BoyJoy - Официальный сайт | Новость века!</title>
+<!-- хейдер -->
+<link rel="icon" href="favicon.ico">
+<header><img scr="logo.png" alt="boyjoy" class="logo"></img></header>
+<div align="center"><h2>НОВОСТЬ ВЕКА!11</h2></div>
+<div align="center"><h2>Я наконецто смог настроить сайт и сделать его более юзабильным.</h2></div>
+<div align="center"><h2>СПИСОК НОВОВЕДЕНИЙ:</div>
+<div align="center"><h2>Знакомтесь, гостевая книга! (да-да, вы не ослышались) Благодаря коллегам из AntonCom. мы смогли этого добится.</h2></div>
+<div align="center"><h2>ТЕСТОВЫЙ ДИЗАЙН: Он будет доступен после 48 часов официального сайта по адресу newdesignboyjoy.github.io</h2></div>
+<div align="center"><h2>Так же, вы теперь можете быстро просматривать новости - слева в блоке список новостей будет обновлятся автоматический.</h2></div>
+<div align="error"><h2>Если вы вдруг нашли баги - сразу пишите <a href="http://vk.com/emil_htoli">ему</a> в лс.</h2></div>
+<div align="center"><h2>Ну, и в принципе все :) Идеи - туда же, куда и баги. Удачи ;)</h2></div>
+<div align="center"><h2 class="copyright">Сайт BoyJoy. Все права защищены. 2016.</h2></div>
